@@ -1,7 +1,9 @@
 ## Getting Started
 
 Please input the metrics to convert. For example: 1 kg = g
+
 Enter 'exit' to exit the program
+
 If your input is not handled, Please try again. Please input the metrics to convert. For example: 1 kg = g
 
 ## Folder Structure
